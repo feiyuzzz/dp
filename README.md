@@ -10,3 +10,5 @@ factory
 abstract factory
 
 builder
+
+prototype
