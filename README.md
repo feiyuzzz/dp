@@ -1,4 +1,5 @@
-# dp
+# Java Design Patterns
+
 Design  Patterns implement by Java Language
 
 strategy
